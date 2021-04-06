@@ -1,1 +1,1 @@
-# AREP-Labpratorio-7
+# AREP-Laboratorio-7
